@@ -59,7 +59,7 @@
 #
 # screen = t.exitonclick()
 
-# Down below is Angela's way of solving this turtle exercise
+# another way of solving it down below
 
 import turtle as turtle_module
 import random
